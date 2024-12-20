@@ -28,9 +28,9 @@ Thyroid cancer is a significant health concern globally, with recurrence being a
    - Neural Networks
 2) Best Performing Model:
    - Random Forest Classifier:
-   - Accuracy: [Value]
-   - ROC-AUC: [Value]
-   - F1-Score: [Value]
+   - Accuracy: 0.95
+   - ROC-AUC: 0.91
+   - F1-Score: 0.96
 3) Insights:
    - Random Forest outperformed other models, making it ideal for this prediction task
    - The feature importance analysis highlighted Risk, T, N, and Pathology as significant predictors of recurrence.
